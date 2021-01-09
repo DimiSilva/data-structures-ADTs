@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1607406211 source:d:\documents\study\c\binary_tree\binary_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"binary_tree.h"
+
+1607406164 d:\documents\study\c\binary_tree\binary_tree.h
+
+1607300297 source:d:\documents\study\c\binary_tree\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1607298979 d:\documents\study\c\binary_tree\utils.h
+
+1607311288 source:d:\documents\study\c\binary_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"binary_tree.h"
+

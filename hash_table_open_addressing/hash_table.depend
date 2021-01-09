@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1609119235 source:d:\documents\study\c\hash_table\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"hash_table.h"
+
+1609119282 d:\documents\study\c\hash_table\utils.h
+
+1609119356 d:\documents\study\c\hash_table\hash_table.h
+
+1609119261 source:d:\documents\study\c\hash_table\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1609117185 source:d:\documents\study\c\hash_table\hash_table.c
+	<stdlib.h>
+	<string.h>
+	"hash_table.h"
+
+1609117185 source:d:\documents\study\c\hash_table_open_addressing\hash_table.c
+	<stdlib.h>
+	<string.h>
+	"hash_table.h"
+
+1609119356 d:\documents\study\c\hash_table_open_addressing\hash_table.h
+
+1609119399 source:d:\documents\study\c\hash_table_open_addressing\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"hash_table.h"
+
+1609119282 d:\documents\study\c\hash_table_open_addressing\utils.h
+
+1609119261 source:d:\documents\study\c\hash_table_open_addressing\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+

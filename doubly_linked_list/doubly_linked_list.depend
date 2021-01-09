@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1600463491 source:d:\documents\study\c\doubly_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"int_list.h"
+	"int_list_list.h"
+	"utils.h"
+
+1600464023 d:\documents\study\c\doubly_linked_list\int_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1600464016 d:\documents\study\c\doubly_linked_list\int_list_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1599199708 d:\documents\study\c\doubly_linked_list\utils.h
+	<stdio.h>
+	<stdlib.h>
+

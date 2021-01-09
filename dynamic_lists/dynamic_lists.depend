@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1599207562 source:d:\documents\study\c\dynamic_lists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"int_list.h"
+	"int_list_list.h"
+	"utils.h"
+
+1598813237 d:\documents\study\c\dynamic_lists\list_of_ints.h
+	<stdio.h>
+	<stdlib.h>
+
+1598820235 d:\documents\study\c\dynamic_lists\list_of_lists.h
+	<stdio.h>
+	<stdlib.h>
+
+1599199708 d:\documents\study\c\dynamic_lists\utils.h
+	<stdio.h>
+	<stdlib.h>
+
+1599207344 d:\documents\study\c\dynamic_lists\int_list.h
+	<stdio.h>
+	<stdlib.h>
+
+1599203004 d:\documents\study\c\dynamic_lists\int_list_list.h
+	<stdio.h>
+	<stdlib.h>
+

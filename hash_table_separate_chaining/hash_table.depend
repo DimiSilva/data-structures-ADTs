@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1609119235 source:d:\documents\study\c\hash_table\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"hash_table.h"
+
+1609119282 d:\documents\study\c\hash_table\utils.h
+
+1609119356 d:\documents\study\c\hash_table\hash_table.h
+
+1609119261 source:d:\documents\study\c\hash_table\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1609117185 source:d:\documents\study\c\hash_table\hash_table.c
+	<stdlib.h>
+	<string.h>
+	"hash_table.h"
+
+1609124098 source:d:\documents\study\c\hash_table_separate_chaining\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"hash_table.h"
+	"data_structs.h"
+
+1609119282 d:\documents\study\c\hash_table_separate_chaining\utils.h
+
+1609123506 d:\documents\study\c\hash_table_separate_chaining\hash_table.h
+	"data_structs.h"
+	"item_list.h"
+
+1609119261 source:d:\documents\study\c\hash_table_separate_chaining\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1609124067 source:d:\documents\study\c\hash_table_separate_chaining\hash_table.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"hash_table.h"
+	"item_list.h"
+	"data_structs.h"
+
+1609123070 d:\documents\study\c\hash_table_separate_chaining\item_list.h
+	"data_structs.h"
+
+1609123084 source:d:\documents\study\c\hash_table_separate_chaining\item_list.c
+	<stdio.h>
+	<stdlib.h>
+	"item_list.h"
+	"data_structs.h"
+
+1609123221 d:\documents\study\c\hash_table_separate_chaining\data_structs.h
+
+1609123274 source:d:\documents\study\c\hash_table_separate_chaining\data_structs.c
+	<stdlib.h>
+	"data_structs.h"
+

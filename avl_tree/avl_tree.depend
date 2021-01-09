@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1607300297 source:d:\documents\study\c\avl_tree\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1607298979 d:\documents\study\c\avl_tree\utils.h
+
+1607821998 source:d:\documents\study\c\avl_tree\avl_tree.c
+	<stdio.h>
+	<stdlib.h>
+	"avl_tree.h"
+
+1607409320 d:\documents\study\c\avl_tree\avl_tree.h
+
+1607793683 source:d:\documents\study\c\avl_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"avl_tree.h"
+

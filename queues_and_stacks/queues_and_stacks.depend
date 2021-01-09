@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600553540 source:d:\documents\study\c\queues_and_stacks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
