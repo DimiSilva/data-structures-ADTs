@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1610232347 source:d:\documents\study\c\data-structures-adts\graph_adjacency_matrix\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1610232325 d:\documents\study\c\data-structures-adts\graph_adjacency_matrix\utils.h
+
+1610260442 source:d:\documents\study\c\data-structures-adts\graph_adjacency_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"graph_adjacency_matrix.h"
+
+1610260458 d:\documents\study\c\data-structures-adts\graph_adjacency_matrix\graph_adjacency_matrix.h
+

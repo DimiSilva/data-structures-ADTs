@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1610217647 source:d:\documents\study\c\data-structures-adts\graph\data_structs.c
+	<stdlib.h>
+	"data_structs.h"
+
+1610217647 d:\documents\study\c\data-structures-adts\graph\data_structs.h
+
+1610232347 source:d:\documents\study\c\data-structures-adts\graph\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1610232325 d:\documents\study\c\data-structures-adts\graph\utils.h
+
+1610255153 source:d:\documents\study\c\data-structures-adts\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"graph.h"
+	"data_structs.h"
+
+1610255013 d:\documents\study\c\data-structures-adts\graph\graph.h
+
+1610255005 source:d:\documents\study\c\data-structures-adts\graph\graph.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"graph.h"
+	"data_structs.h"
+
+1610232347 source:d:\documents\study\c\data-structures-adts\graph_adjacency_list\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1610232325 d:\documents\study\c\data-structures-adts\graph_adjacency_list\utils.h
+
